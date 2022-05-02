@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Kerja Praktek Informatika UMMU 2022
+# KP Informatika UMMU 2022
 
 ## Mind Map KP 2022 INFRA
 
@@ -12,7 +12,7 @@ layout: default
 
 ### 1. `Sosialisasi` - 15/03/2022
 * Sosialisasi KP 2022 INFRA di LAB Jaringan Lt.3.
-* Oleh Pak. Ikhwan dan Pak Sahrial
+<!-- * Oleh Pak. Ikhwan dan Pak Sahrial -->
 
 ### 2. `Pendaftaran KP` - 15/03/2022 - 05/05/2022 
 * Pendaftaran KP 2022 ke Prodi (Ibu Adelina)
@@ -32,7 +32,7 @@ layout: default
 * Jumlah kelompok kisaran 12 - 16 Kelompok.
 
 ### 6. `Pembekalan` - 14/05/2022 - 16/05/2022
-* Semua Mahasiswa sudah harus tiba kembali di Ternate SEBELUM Tanggal 14/05/2022.
+* Semua Mahasiswa sudah harus tiba kembali di Ternate dari Liburan SEBELUM Tanggal 14/05/2022.
 * Pembekalan KP 2022 INFRA berlokasi di Ruang LAB Jaringan, 
 * Waktu Pembekalan berturut-turut dari tanggal 14,15 dan 16 bulan Mei (05) 2022. 
 
