@@ -27,6 +27,9 @@ layout: default
 ### 4. `Lokasi KP 2022 INFRA` 
 * Lokasi KP 2022 INFRA adalah di Kepulauan Kayoa Kab. Halsel.
 
+    [Peta Pulau Kayoa: ![Gambar Alur kp2022](assets/Maps-Kayoa.png)](https://www.google.com/maps/place/Guruopin,+Kec.+Kayoa,+Kabupaten+Halmahera+Selatan,+Maluku+Utara/@0.0065855,127.4023242,15z/data=!3m1!4b1!4m5!3m4!1s0x329d5624c188c397:0xd70ecd1ea91ed918!8m2!3d0.006566!4d127.4110758){:target="_blank"}.    
+
+
 ### 5. `Bagi Kelompok`
 * Setiap Kelompok Terdiri dari 6-8 orang Mahasiswa dan Seorang Dosen Pembimbing. 
 * Jumlah kelompok kisaran 12 - 16 Kelompok.
@@ -64,10 +67,10 @@ layout: default
 ### 11. `Penyusunan Laporan Akhir KP` -  03/06/2022 - 10/06/2022
 * Setiap Kelompok menyusun Laporan KP-nya yang siap untuk diujikan. 
 * Setiap Kelompok agar Melengkapi Laporan KP-nya dengan Foto Dokumentasi
-* 
+* Menulis Laporan mengikuti Format atau Template yang disediakan oleh Prodi.
 
 ### 12. `UJIAN KP 2022` -  11/06/2022 - 12/06/2022
-* Ujian KP 2022 INFRA
+* Ujian KP 2022 INFRA pada tanggal 11 dan 12 Mei 2022
 
 ### 13. `FIX Laporan` -  13/06/2022 - 17/06/2022
 * Setiap kelompok segera memperbaiki Laporannya setelah ujian Jika terdapat catatan perbaikan.
