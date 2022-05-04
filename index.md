@@ -70,7 +70,7 @@ layout: default
 * Menulis Laporan mengikuti Format atau Template yang disediakan oleh Prodi.
 
 ### 12. `UJIAN KP 2022` -  11/06/2022 - 12/06/2022
-* Ujian KP 2022 INFRA pada tanggal 11 dan 12 Mei 2022
+* Ujian KP 2022 INFRA pada tanggal 11 dan 12 Juni 2022
 
 ### 13. `FIX Laporan` -  13/06/2022 - 17/06/2022
 * Setiap kelompok segera memperbaiki Laporannya setelah ujian Jika terdapat catatan perbaikan.
