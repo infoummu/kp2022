@@ -40,13 +40,13 @@ layout: default
 * Pembekalan KP 2022 INFRA berlokasi di Ruang LAB Jaringan, 
 * Waktu Pembekalan berturut-turut dari tanggal 14,15 dan 16 bulan Mei (05) 2022. 
 
-
-### [NEW Update] `Pembekalan` 15/05/2022 - 16/-05/2022 
+  ###   [NEW Update] `Pembekalan` 15/05/2022 - 16/-05/2022 
 * Pembekalan Umum hari Ahad 15  Mei, Jam 09.30 - Selesai, `Gabungan SI dan INFRA`
 * Pembekalan KP Teknis INFRA hari Senin 16 Mei Jam 09.30 - Selesai,  oleh Pak Erwin dan Kak Fatur.
 * Waktu Berangkat naik KM. dan Tiba Turun KM. pake Jas Almamater RAPI (strika jas tu). 
 * Foto bersama saat berangkat dan tiba pake Jas Almamater  sambil memegang spanduk/baliho
 * Semua Mahasiswa harus ADA dan Pakai ID Card
+* Masing-masing ketua kelompok memeriksa dan meng-absen anggotannya saat berangkat dan saat tiba, kemudian melaporkan ke koordinator KP 2022 (Pak Ikhwan).
 
 ### 7. `Berangkat ke Lokasi` - 17/05/2022
 * Tanggal 17 Mei berangkat ke Lokasi KP 2022 -> Kayoa
@@ -58,8 +58,6 @@ layout: default
 * Kerja Praktek INFRA 2022 di Lokasi Masing-masing
 * Setiap Kelompok Membuat Laporan KP 
 * Menjelang Selesai KP, Setiap kelompok agar Mempersiapkan Laporan Sementara untuk Dipresentasikan di tempat KP masing-masing.
-
-
 
 ### 9. `Presentasi Laporan` - 01/06/2022
 * Setiap Kelompok sudah siap dengan Laporan KP-nya
