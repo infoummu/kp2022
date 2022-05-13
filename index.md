@@ -30,6 +30,7 @@ layout: default
     [Peta Pulau Kayoa: ![Gambar Alur kp2022](assets/Maps-Kayoa.png)](https://www.google.com/maps/place/Guruopin,+Kec.+Kayoa,+Kabupaten+Halmahera+Selatan,+Maluku+Utara/@0.0065855,127.4023242,15z/data=!3m1!4b1!4m5!3m4!1s0x329d5624c188c397:0xd70ecd1ea91ed918!8m2!3d0.006566!4d127.4110758){:target="_blank"}.    
 
 
+
 ### 5. `Bagi Kelompok`
 * Setiap Kelompok Terdiri dari 6-8 orang Mahasiswa dan Seorang Dosen Pembimbing. 
 * Jumlah kelompok kisaran 12 - 16 Kelompok.
@@ -39,6 +40,13 @@ layout: default
 * Pembekalan KP 2022 INFRA berlokasi di Ruang LAB Jaringan, 
 * Waktu Pembekalan berturut-turut dari tanggal 14,15 dan 16 bulan Mei (05) 2022. 
 
+
+### [NEW Update] `Pembekalan` 15/05/2022 - 16/-05/2022 
+* Pembekalan Umum hari Ahad 15  Mei, Jam 09.30 - Selesai, `Gabungan SI dan INFRA`
+* Pembekalan KP Teknis INFRA hari Senin 16 Mei Jam 09.30 - Selesai,  oleh Pak Erwin dan Kak Fatur.
+* Waktu Berangkat naik KM. dan Tiba Turun KM. pake Jas Almamater RAPI (strika jas tu). 
+* Foto bersama saat berangkat dan tiba pake Jas Almamater  sambil memegang spanduk/baliho
+* Semua Mahasiswa harus ADA dan Pakai ID Card
 
 ### 7. `Berangkat ke Lokasi` - 17/05/2022
 * Tanggal 17 Mei berangkat ke Lokasi KP 2022 -> Kayoa
@@ -68,6 +76,7 @@ layout: default
 * Setiap Kelompok menyusun Laporan KP-nya yang siap untuk diujikan. 
 * Setiap Kelompok agar Melengkapi Laporan KP-nya dengan Foto Dokumentasi
 * Menulis Laporan mengikuti Format atau Template yang disediakan oleh Prodi.
+* Jadikan Jurnal PKM
 
 ### 12. `UJIAN KP 2022` -  11/06/2022 - 12/06/2022
 * Ujian KP 2022 INFRA pada tanggal 11 dan 12 Juni 2022
@@ -81,7 +90,8 @@ layout: default
 * 
 
 ### 15. `Kumpul Lporan KP` 
-* Jika Sudah dibukukan segera kumpul hasil akhir laporan KP 2022 masing-masing kelompok ke Prodi.
+* Jika Sudah dibukukan segera kumpul hasil akhir laporan KP 2022 masing-masing kelompok ke Prodi dalam bentuk cetak/buku.
+* Kumpul Laporan dalam bentuk Soft Copy (file DOCX dan PDF)
 
 ### 16. `Nilai KP 2022` 
 * Nilai KP 2022 keluar setelah semua proses selesai. 
