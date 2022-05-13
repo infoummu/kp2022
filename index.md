@@ -30,29 +30,36 @@ layout: default
     [Peta Pulau Kayoa: ![Gambar Alur kp2022](assets/Maps-Kayoa.png)](https://www.google.com/maps/place/Guruopin,+Kec.+Kayoa,+Kabupaten+Halmahera+Selatan,+Maluku+Utara/@0.0065855,127.4023242,15z/data=!3m1!4b1!4m5!3m4!1s0x329d5624c188c397:0xd70ecd1ea91ed918!8m2!3d0.006566!4d127.4110758){:target="_blank"}.    
 
 
-
 ### 5. `Bagi Kelompok`
 * Setiap Kelompok Terdiri dari 6-8 orang Mahasiswa dan Seorang Dosen Pembimbing. 
-* Jumlah kelompok kisaran 12 - 16 Kelompok.
+* Jumlah kelompok kisaran 9-11 Kelompok.
+* Setiap kelompok menunjuk seorang sebagai ketua kolompoknya masing-masing.
 
-### 6. `Pembekalan` - 14/05/2022 - 16/05/2022
+### 6. `Pembekalan` - 14/05/2022 - 15/05/2022
 * Semua Mahasiswa sudah harus tiba kembali di Ternate dari Liburan SEBELUM Tanggal 14/05/2022.
 * Pembekalan KP 2022 INFRA berlokasi di Ruang LAB Jaringan, 
-* Waktu Pembekalan berturut-turut dari tanggal 14,15 dan 16 bulan Mei (05) 2022. 
+* Waktu Pembekalan berturut-turut dari tanggal 14 dan 15  bulan Mei (05) 2022. 
 
-  ###   [NEW Update] `Pembekalan` 15/05/2022 - 16/-05/2022 
-* Pembekalan Umum hari Ahad 15  Mei, Jam 09.30 - Selesai, `Gabungan SI dan INFRA`
-* Pembekalan KP Teknis INFRA hari Senin 16 Mei Jam 09.30 - Selesai,  oleh Pak Erwin dan Kak Fatur.
+###   [NEW Update] `Pembekalan` 14/05/2022 - 14/05/2022 
+* Pembekalan KP Teknis INFRA hari _**Sabtu 14 Mei Jam 09.30 - Selesai**_,  oleh Pak Erwin dan Kak Fatur.
+* Pembekalan Umum hari Ahad 15  Mei, Jam 09.30 - Selesai, **_`Gabungan SI dan INFRA`_** oleh **Prodi Informatika**
+
+<!-- * Waktu Berangkat naik KM. dan Tiba Turun KM. pake Jas Almamater RAPI (strika jas tu). 
+* Foto bersama saat berangkat dan tiba pake Jas Almamater  sambil memegang spanduk/baliho
+* Semua Mahasiswa harus ADA dan Pakai ID Card
+* Masing-masing ketua kelompok memeriksa dan meng-absen anggotannya saat berangkat dan saat tiba, kemudian melaporkan ke koordinator KP 2022 (Pak Ikhwan). -->
+
+### 7. `Berangkat ke Lokasi` - 17/05/2022
+* Tanggal 17 Mei berangkat ke Lokasi KP 2022 Kayoa (**Bisa Berubah sesuai Jadwal Kapal**)
+* Berangkat menggunakan KM. C...Dua.., dengan Dermaga Tujuan Guraping Kayoa
+* Berangkat Pagi jam 07.30, semua Mahasiswa sudah harus siap di Dermaga SEBELUM jam tersebut.
+* Kelompok yang di Pulau Kayoa harus membawa Sepeda Motor.
+
+###   [NEW Update] `Berangkat ke Lokasi` - 17/05/2022 
 * Waktu Berangkat naik KM. dan Tiba Turun KM. pake Jas Almamater RAPI (strika jas tu). 
 * Foto bersama saat berangkat dan tiba pake Jas Almamater  sambil memegang spanduk/baliho
 * Semua Mahasiswa harus ADA dan Pakai ID Card
 * Masing-masing ketua kelompok memeriksa dan meng-absen anggotannya saat berangkat dan saat tiba, kemudian melaporkan ke koordinator KP 2022 (Pak Ikhwan).
-
-### 7. `Berangkat ke Lokasi` - 17/05/2022
-* Tanggal 17 Mei berangkat ke Lokasi KP 2022 -> Kayoa
-* Berangkat menggunakan KM. C...Dua.., dengan Dermaga Tujuan Guraping Kayoa
-* Berangkat Pagi jam 07.30, semua Mahasiswa sudah harus siap di Dermaga SEBELUM jam tersebut. 
-* Kelompok yang di Pulau Kayoa harus membawa Sepeda Motor.
 
 ### 8. `Di Lokasi KP` - 18/05/2022 - 30/05/2022
 * Kerja Praktek INFRA 2022 di Lokasi Masing-masing
@@ -69,11 +76,11 @@ layout: default
 * Semua kelompok sudah berkumpul di Guraping untuk Siap-siap kebali ke Ternate
 * Berangkat Dari Kayoa Jam 7.30 kembali ke Ternate.
 
-
 ### 11. `Penyusunan Laporan Akhir KP` -  03/06/2022 - 10/06/2022
 * Setiap Kelompok menyusun Laporan KP-nya yang siap untuk diujikan. 
 * Setiap Kelompok agar Melengkapi Laporan KP-nya dengan Foto Dokumentasi
 * Menulis Laporan mengikuti Format atau Template yang disediakan oleh Prodi.
+* Download Buku Panduan KP Informatika: [BUKU_PANDUAN_KP_Informatika.docx](assets/BUKU_PANDUAN_KP.docx)
 * Jadikan Jurnal PKM
 
 ### 12. `UJIAN KP 2022` -  11/06/2022 - 12/06/2022
@@ -89,13 +96,14 @@ layout: default
 
 ### 15. `Kumpul Lporan KP` 
 * Jika Sudah dibukukan segera kumpul hasil akhir laporan KP 2022 masing-masing kelompok ke Prodi dalam bentuk cetak/buku.
-* Kumpul Laporan dalam bentuk Soft Copy (file DOCX dan PDF)
+* Kumpul juga Laporan dalam bentuk Soft Copy (**file DOCX dan PDF**)
 
 ### 16. `Nilai KP 2022` 
 * Nilai KP 2022 keluar setelah semua proses selesai. 
 
 ### 17. `KP 2022 INFRA SELESAI`.
 * KP 2022 INFRA INFORMATIKA UMMU dinyatakan SELESAI.
+
 
 
 *** 
