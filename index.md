@@ -35,9 +35,9 @@ layout: default
 * Jumlah kelompok kisaran 9-11 Kelompok.
 * Setiap kelompok menunjuk seorang sebagai ketua kolompoknya masing-masing.
 
-## [NEW Update] Daftar Kelompok
+### [NEW Update] Daftar Kelompok
 				
-### INFRA-1 - Desa Laloin
+#### INFRA-1 - Desa Laloin
 1. Sri Ayu A. Salauwe		
 2. Nur Sabrina		
 3. Ahmad Raihan La Gia		
@@ -46,7 +46,7 @@ layout: default
 6. Riswal Alim		
 				
 				
-### INFRA-2 - Desa Ngokomalako
+#### INFRA-2 - Desa Ngokomalako
 1. Siti Nabila Marjan		
 2. Ira M. Fataruba		
 3. Sarifudin Soleman		
@@ -55,7 +55,7 @@ layout: default
 6. Muhammad Tezar A. Hayat		
 				
 				
-### INFRA-3 - Desa Tawabi
+#### INFRA-3 - Desa Tawabi
 1. Nurlinda Sumardi		
 2. Nurdila Cecene		
 3. Jiljian Abdul Aziz		
@@ -64,7 +64,7 @@ layout: default
 6. Julfikar Diawan		
 				
 				
-### INFRA-4	- SMKN 4 Bajo
+#### INFRA-4	- SMKN 4 Bajo
 1. Nadila Nursaifa Abjan		
 2. Nofita Ridwan		
 3. Zull Juliyadi Duwila		
@@ -73,7 +73,7 @@ layout: default
 6. Muhyiy A. Gorotomole		
 				
 				
-### INFRA-5	- Desa Ngute-Ngute
+#### INFRA-5	- Desa Ngute-Ngute
 1. Julianti R Buhay		
 2. Aldinafira		
 3. Jerri Aprianto Polibu		
@@ -83,7 +83,7 @@ layout: default
 7. Julkifli Akka
 				
 				
-### INFRA-6	- Desa Laromabati
+#### INFRA-6	- Desa Laromabati
 1. Nurul Safitry Darwin		
 2. Nadia Loga		
 3. Dhani H. Abas		
@@ -92,7 +92,7 @@ layout: default
 6. Elsa Gete Gete		
 7. Susilawati Suwardi		
 				
-### INFRA-7 - Desa Modayama
+#### INFRA-7 - Desa Modayama
 1. Siti Nuraini Ramadhani		
 2. Wulansari Hafel		
 3. Muhammad Taufik R. Syarif		
@@ -101,7 +101,7 @@ layout: default
 6. Fahman M. Saleh		
 				
 				
-### INFRA-8	- SMAN 10 Laluin	
+#### INFRA-8	- SMAN 10 Laluin	
 1. Mardiana Tamaronggehe		
 2. Giok Berbyna Puspitasary Burhanudin		
 3. Muhammad Riswanto Ahmad		
@@ -110,7 +110,7 @@ layout: default
 6. Alvian Zakaria		
 7. Rahmi Arivani Hanafi		
 				
-### INFRA-9	- Desa Wayasipang
+#### INFRA-9	- Desa Wayasipang
 1. Hartati Buamona		
 2. Marisa S Salama		
 3. Sorono Warjo Saudin		
@@ -120,7 +120,7 @@ layout: default
 7. Dasrianto Maulana
 				
 				
-### INFRA-10 - Desa Karamat		
+#### INFRA-10 - Desa Karamat		
 1. Fivi Findri Odameng		
 2. Siti Elvia Unab		
 3. Muhammad Affandy Soangare		
@@ -129,7 +129,8 @@ layout: default
 6. Julfikar Fahredji		
 7. Putri Rahmanda Husni		
 
-### INFRA-11	- Desa Ori Makurunga
+#### INFRA-11	- Desa Ori Makurunga
+
 1. Ramah  Zaludin
 2. Jabir M. Robo
 3. Nurindah Umasugi
@@ -150,10 +151,6 @@ layout: default
 * Pembekalan Umum hari Ahad 15  Mei, Jam 09.30 - Selesai, **_`Gabungan SI dan INFRA`_** oleh **Prodi Informatika**
 * Pembekalan Lanjutan INFRA hari **Senin 16  Mei, Jam 13.00 - Selesai** Oleh Pak Erwin 
 
-<!-- * Waktu Berangkat naik KM. dan Tiba Turun KM. pake Jas Almamater RAPI (strika jas tu). 
-* Foto bersama saat berangkat dan tiba pake Jas Almamater  sambil memegang spanduk/baliho
-* Semua Mahasiswa harus ADA dan Pakai ID Card
-* Masing-masing ketua kelompok memeriksa dan meng-absen anggotannya saat berangkat dan saat tiba, kemudian melaporkan ke koordinator KP 2022 (Pak Ikhwan). -->
 
 ### 7. `Berangkat ke Lokasi` - 17/05/2022
 * Tanggal 17 Mei berangkat ke Lokasi KP 2022 Kayoa (**Bisa Berubah sesuai Jadwal Kapal**)
@@ -214,4 +211,4 @@ layout: default
 
 *** 
 
-by: kordinator.kp2022.informatika@ummu
+by: koordinator.kp2022
