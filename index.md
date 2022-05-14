@@ -35,6 +35,111 @@ layout: default
 * Jumlah kelompok kisaran 9-11 Kelompok.
 * Setiap kelompok menunjuk seorang sebagai ketua kolompoknya masing-masing.
 
+## [NEW Update] Daftar Kelompok
+				
+### INFRA-1 - Desa Laloin
+1. Sri Ayu A. Salauwe		
+2. Nur Sabrina		
+3. Ahmad Raihan La Gia		
+4. Rasmin Syamsudin		
+5. Bahrin Wadi		
+6. Riswal Alim		
+				
+				
+### INFRA-2 - Desa Ngokomalako
+1. Siti Nabila Marjan		
+2. Ira M. Fataruba		
+3. Sarifudin Soleman		
+4. Muhammad Fajri Soleman		
+5. M. Akib Hasan		
+6. Muhammad Tezar A. Hayat		
+				
+				
+### INFRA-3 - Desa Tawabi
+1. Nurlinda Sumardi		
+2. Nurdila Cecene		
+3. Jiljian Abdul Aziz		
+4. Hardian Umamit		
+5. Moh Riski Tidore		
+6. Julfikar Diawan		
+				
+				
+### INFRA-4	- SMKN 4 Bajo
+1. Nadila Nursaifa Abjan		
+2. Nofita Ridwan		
+3. Zull Juliyadi Duwila		
+4. Asrul Limatahu		
+5. Isnawi Hi Salim		
+6. Muhyiy A. Gorotomole		
+				
+				
+### INFRA-5	- Desa Ngute-Ngute
+1. Julianti R Buhay		
+2. Aldinafira		
+3. Jerri Aprianto Polibu		
+4. Fakhrul Rizki Parman		
+5. Alfian Sukur		
+6. Rahma Ibrahim
+7. Julkifli Akka
+				
+				
+### INFRA-6	- Desa Laromabati
+1. Nurul Safitry Darwin		
+2. Nadia Loga		
+3. Dhani H. Abas		
+4. Yusri Jalil Yusuf		
+5. Sanusi Usia		
+6. Elsa Gete Gete		
+7. Susilawati Suwardi		
+				
+### INFRA-7 - Desa Modayama
+1. Siti Nuraini Ramadhani		
+2. Wulansari Hafel		
+3. Muhammad Taufik R. Syarif		
+4. Rahmat Fabanyo		
+5. M Khaidar		
+6. Fahman M. Saleh		
+				
+				
+### INFRA-8	- SMAN 10 Laluin	
+1. Mardiana Tamaronggehe		
+2. Giok Berbyna Puspitasary Burhanudin		
+3. Muhammad Riswanto Ahmad		
+4. M. Rizky S. Diasamo		
+5. Yusril A. Rahman		
+6. Alvian Zakaria		
+7. Rahmi Arivani Hanafi		
+				
+### INFRA-9	- Desa Wayasipang
+1. Hartati Buamona		
+2. Marisa S Salama		
+3. Sorono Warjo Saudin		
+4. Arjuna		
+5. M. Ikbal A. Muloko		
+6. Niningsih Ramli
+7. Dasrianto Maulana
+				
+				
+### INFRA-10 - Desa Karamat		
+1. Fivi Findri Odameng		
+2. Siti Elvia Unab		
+3. Muhammad Affandy Soangare		
+4. Erdin La Dunga		
+5. Rahmatul Salamat		
+6. Julfikar Fahredji		
+7. Putri Rahmanda Husni		
+
+### INFRA-11	- Desa Ori Makurunga
+1. Ramah  Zaludin
+2. Jabir M. Robo
+3. Nurindah Umasugi
+4. Julkifli abjan
+5. Risaldi Rajaguru
+6. Nursianti Putri Umasugi
+7. M. Faldini L. Ahya
+8. Windi Fokotea
+
+
 ### 6. `Pembekalan` - 14/05/2022 - 15/05/2022
 * Semua Mahasiswa sudah harus tiba kembali di Ternate dari Liburan SEBELUM Tanggal 14/05/2022.
 * Pembekalan KP 2022 INFRA berlokasi di Ruang LAB Jaringan, 
@@ -43,6 +148,7 @@ layout: default
 ###   [NEW Update] `Pembekalan` 14/05/2022 - 14/05/2022 
 * Pembekalan KP Teknis INFRA hari _**Sabtu 14 Mei Jam 09.30 - Selesai**_,  oleh Pak Erwin dan Kak Fatur.
 * Pembekalan Umum hari Ahad 15  Mei, Jam 09.30 - Selesai, **_`Gabungan SI dan INFRA`_** oleh **Prodi Informatika**
+* Pembekalan Lanjutan INFRA hari **Senin 16  Mei, Jam 13.00 - Selesai** Oleh Pak Erwin 
 
 <!-- * Waktu Berangkat naik KM. dan Tiba Turun KM. pake Jas Almamater RAPI (strika jas tu). 
 * Foto bersama saat berangkat dan tiba pake Jas Almamater  sambil memegang spanduk/baliho
