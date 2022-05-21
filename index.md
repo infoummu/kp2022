@@ -6,7 +6,7 @@ layout: default
 
 ## Mind Map KP 2022 INFRA
 
-![Gambar Alur kp2022](assets/MainKP-V1.7.png)
+![Gambar Alur kp2022](assets/MainKP-V1.8.png)
 
 ## Alur KP 2022 INFRA
 
@@ -159,41 +159,45 @@ layout: default
 * Kelompok yang di Pulau Kayoa harus membawa Sepeda Motor.
 
 ###   [NEW Update] `Berangkat ke Lokasi` - 17/05/2022 
-* Waktu Berangkat naik KM. dan Tiba Turun KM. pake Jas Almamater RAPI (strika jas tu). 
+* Waktu Berangkat naik KM. Tiga lalu dan Tiba Turun KM. Tiga Lalu PAKE Jas Almamater RAPI (strika jas tu). 
 * Foto bersama saat berangkat dan tiba pake Jas Almamater  sambil memegang spanduk/baliho
 * Semua Mahasiswa harus ADA dan Pakai ID Card
 * Masing-masing ketua kelompok memeriksa dan meng-absen anggotannya saat berangkat dan saat tiba, kemudian melaporkan ke koordinator KP 2022 (Pak Ikhwan).
 
-### 8. `Di Lokasi KP` - 18/05/2022 - 30/05/2022
+### 8. `Di Lokasi KP` - 18/05/2022 - 24/05/2022
 * Kerja Praktek INFRA 2022 di Lokasi Masing-masing
 * Setiap Kelompok Membuat Laporan KP 
 * Menjelang Selesai KP, Setiap kelompok agar Mempersiapkan Laporan Sementara untuk Dipresentasikan di tempat KP masing-masing.
 
-### 9. `Presentasi Laporan` - 01/06/2022
+### 9. `Presentasi Laporan` - 24/05/2022
 * Setiap Kelompok sudah siap dengan Laporan KP-nya
 * Setiap Kepompok Mempresentasikan Laporannya KP-nya di Tempat KP-nya masing-masing.
 * Menyerap masukan dan saran untuk laporan yang lebih baik. 
 * Persiapan Kembali Berkumpul di Guraping Kayoa untuk persiapan Penarikan kembali ke Ternate.
 
-### 10. `Penarikan Kembali Ke Ternate` - 02/06/2022
-* Semua kelompok sudah berkumpul di Guraping untuk Siap-siap kebali ke Ternate
+### 10. `Penarikan Kembali Ke Ternate` - 25/05/2022
+* Semua kelompok untuk Siap-siap **PENARIKAN** kebali ke Ternate
+* Untuk Kelompok Orimakurunga, Ngute-Ngute, SMAN 10 Lalui, dan Desa Laluin **SUDAH harus BERKUMPUL** di Pelabuhan Laluin pada jam 06.00 
+* Untuk yang di Tawabi **SUDAH harus BERKUMPUL** di Pelabuhan Tawabi pada jam 06.00 (Kapal masuk Tawabi)
+* Untuk yang di Karamat, Ngokomalako, Wayasipang dan SMKN 4 Bajo **SUDAH harus BERKUMPUL** di Pelabuhan Guraping pada jam 06.00 
+* Untuk yang di Laromabati dan Modayama **SUDAH harus BERKUMPUL** di Pelabuhan Modayama pada jam 07.00 
 * Berangkat Dari Kayoa Jam 7.30 kembali ke Ternate.
 
-### 11. `Penyusunan Laporan Akhir KP` -  03/06/2022 - 10/06/2022
+### 11. `Penyusunan Laporan Akhir KP` -  26/05/2022 - 03/06/2022
 * Setiap Kelompok menyusun Laporan KP-nya yang siap untuk diujikan. 
 * Setiap Kelompok agar Melengkapi Laporan KP-nya dengan Foto Dokumentasi
 * Menulis Laporan mengikuti Format atau Template yang disediakan oleh Prodi.
 * Download Buku Panduan KP Informatika: [BUKU_PANDUAN_KP_Informatika.docx](assets/BUKU_PANDUAN_KP.docx)
 * Jadikan Jurnal PKM
 
-### 12. `UJIAN KP 2022` -  11/06/2022 - 12/06/2022
-* Ujian KP 2022 INFRA pada tanggal 11 dan 12 Juni 2022
+### 12. `UJIAN KP 2022` -  04/06/2022 - 05/06/2022
+* Ujian KP 2022 INFRA pada tanggal 04 dan 05 Juni 2022
 
-### 13. `FIX Laporan` -  13/06/2022 - 17/06/2022
+### 13. `FIX Laporan` -  06/06/2022 - 10/06/2022
 * Setiap kelompok segera memperbaiki Laporannya setelah ujian Jika terdapat catatan perbaikan.
 * Perbaiki laporan sampai memdapatkan ACC untuk Pembukuan dari Pembimbing dan Penguji.
 
-### 14. `Pembukuan Laporan KP` -  18/06/2022
+### 14. `Pembukuan Laporan KP` -  12/06/2022
 * Segera dibukukan jika sudah mendapatkan ACC untuk itu.
 * 
 
