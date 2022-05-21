@@ -174,6 +174,7 @@ layout: default
 * Setiap Kepompok Mempresentasikan Laporannya KP-nya di Tempat KP-nya masing-masing.
 * Menyerap masukan dan saran untuk laporan yang lebih baik. 
 * Persiapan Kembali Berkumpul di Guraping Kayoa untuk persiapan Penarikan kembali ke Ternate.
+* Setiap kelompok sudah menghubungi Pembimbingnya apakah akan datang menjemput untuk Penarikan atau tidak, setelah itu segera informasikan ke koordinator KP.
 
 ### 10. `Penarikan Kembali Ke Ternate` - 25/05/2022
 * Semua kelompok untuk Siap-siap **PENARIKAN** kebali ke Ternate
