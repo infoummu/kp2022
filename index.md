@@ -16,12 +16,7 @@ layout: default
 
 ### 2. `Pendaftaran KP` - 15/03/2022 - 05/05/2022 
 * Pendaftaran KP 2022 ke Prodi (Ibu Adelina)
-* Biaya KP 2022, Rp 850.000
-    * TIDAK Termasuk Biaya Transportasi ke Lokasi
-    * Untuk Pendaftaran
-    * Untuk Pembimbing KP
-    * Untuk Penguji KP
-    * Naik Ujian KP
+* Biaya KP 2022, sesuai dengan yang diumumkan, konfirmasi saat pendaftaran.
 * Daftar Ulang ke Koordinator KP (Pak Ikhwan), [LINK Registrasi Ulang](https://forms.gle/5cuNf1R2CYGniSvP6){:target="_blank"}.
 
 ### 4. `Lokasi KP 2022 INFRA` 
